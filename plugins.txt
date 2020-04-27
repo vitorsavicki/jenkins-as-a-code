@@ -45,7 +45,6 @@ github:1.29.0
 workflow-job:2.17
 jackson2-api:2.10.3
 token-macro:2.4
-ruby-runtime:0.12
 pipeline-stage-tags-metadata:1.2.7
 ant:1.8
 gitlab-plugin:1.5.5
