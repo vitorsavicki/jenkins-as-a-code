@@ -1,4 +1,4 @@
-FROM jenkins/jenkins:2.176
+FROM jenkins/jenkins:2.60
 
 LABEL Author="Rodrigo Martinez da Rocha" 
 

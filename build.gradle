@@ -74,6 +74,7 @@ dependencies {
     compile 'org.jenkins-ci.plugins:workflow-job:2.17'
     compile 'org.jenkins-ci.plugins:jackson2-api:2.10.3'
     compile 'org.jenkins-ci.plugins:token-macro:2.4'
+    compile 'org.jenkins-ci.plugins:ruby-runtime:0.12'
     compile 'org.jenkins-ci.plugins:pipeline-stage-tags-metadata:1.2.7'
     compile 'org.jenkins-ci.plugins:ant:1.8'
     compile 'org.jenkins-ci.plugins:gitlab-plugin:1.5.5'
