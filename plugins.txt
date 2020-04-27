@@ -97,7 +97,7 @@ pipeline-model-declarative-agent:1.1.1
 workflow-multibranch:2.17
 envinject:2.1.5
 git:3.8.0
-structs:1.14
+structs:1.19
 pipeline-utility-steps:2.0.2
 blueocean-core-js:1.4.2
 blueocean-github-pipeline:1.4.2

@@ -126,7 +126,7 @@ dependencies {
     compile 'org.jenkins-ci.plugins:workflow-multibranch:2.17'
     compile 'org.jenkins-ci.plugins:envinject:2.1.5'
     compile 'org.jenkins-ci.plugins:git:3.8.0'
-    compile 'org.jenkins-ci.plugins:structs:1.14'
+    compile 'org.jenkins-ci.plugins:structs:1.19'
     compile 'org.jenkins-ci.plugins:pipeline-utility-steps:2.0.2'
     compile 'org.jenkins-ci.plugins:blueocean-core-js:1.4.2'
     compile 'org.jenkins-ci.plugins:blueocean-github-pipeline:1.4.2'
